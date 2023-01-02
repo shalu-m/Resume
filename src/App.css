@@ -1,0 +1,26 @@
+
+.login-width{
+    width: 60%;
+    margin: 0 auto;
+  }
+  .butttn{
+    width: 100%;
+    
+    color: white;
+  }
+
+.section{
+    background-color: lightgray;
+    position: relative;
+}
+.header{
+    
+    background-color: lightslategrey;
+}
+.underLine{
+    text-decoration: underline;
+    
+}
+.dec-line{
+    text-decoration: none;
+}
